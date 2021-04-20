@@ -1,6 +1,5 @@
 
 
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -11,6 +10,7 @@
 body {
     background-color: rgb(241, 241, 241);
 }
+
 
 
 
@@ -35,15 +35,19 @@ body {
     font-weight: bold;
 }
 
+
+
+
 /* corpo */
 
 .content {
     width: 50%;
     margin: 50px auto;
     background-color: white;
-  
     border-radius: 10px;
 }
+
+
 
 
 /* section 1  */
@@ -77,11 +81,12 @@ hr {
 
 
 
+
 /* section 2  */
 
 ul {
     list-style-type: none;
-    margin: 50px 0px 0px 50px;
+    margin: 50px  50px;
     padding-bottom: 40px;
 }
 
@@ -117,6 +122,9 @@ ul {
     font-size: 15px;
     color: white;
 }
+
+
+
 
 /* colori button list */
 
