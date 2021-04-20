@@ -41,7 +41,7 @@ body {
     width: 50%;
     margin: 50px auto;
     background-color: white;
-    height: 1000px;
+  
     border-radius: 10px;
 }
 
@@ -74,4 +74,60 @@ body {
 hr {
     border: 1px solid rgb(241, 241, 241);
 }
+
+
+
+/* section 2  */
+
+ul {
+    list-style-type: none;
+    margin: 50px 0px 0px 50px;
+    padding-bottom: 40px;
+}
+
+.listV, .listX {
+    padding: 10px 0px;
+    font-size: 20px;
+}
+
+.lisX::before {
+    content: ;
+}
+.button_list {
+    vertical-align: middle;
+    padding: 8px 15px;
+    background-color: red;
+    margin-left: 5px;
+    border-radius: 15px;
+    font-size: 15px;
+    color: white;
+}
+
+/* colori button list */
+
+.button_list_1 {
+  background-color: rgb(0, 136, 248); 
+}
+
+.button_list_2 {
+background-color: rgb(119, 0, 255);
+}
+
+.button_list_3 {
+background-color: rgb(0, 128, 96);
+}
+
+.button_list_4 {
+background-color: rgb(255, 174, 0);
+}
+
+.button_list_5 {
+background-color: rgb(156, 67, 149);
+}
+
+.button_list_6 {
+background-color: rgb(100, 128, 0);
+}
+
+
 
