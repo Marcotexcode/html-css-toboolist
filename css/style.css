@@ -1,0 +1,37 @@
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+body {
+    background-color: rgb(241, 241, 241);
+}
+
+
+
+/* header */
+
+.head_logo_text {
+    background-color: white;
+}
+
+.head_logo_text img {
+    display: inline;
+    padding: 5px;
+    width: 60px;
+    margin-left: 30px;
+    vertical-align: middle;
+}
+
+.head_logo_text h1 {
+    display: inline;
+    font-size: 30px;
+    font-weight: 100;
+    font-weight: bold;
+
+}
