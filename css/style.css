@@ -14,7 +14,7 @@ body {
 
 
 
-/* header */
+/* intestazione */
 
 .head_logo_text {
     background-color: white;
@@ -33,5 +33,45 @@ body {
     font-size: 30px;
     font-weight: 100;
     font-weight: bold;
-
 }
+
+/* corpo */
+
+.content {
+    width: 50%;
+    margin: 50px auto;
+    background-color: white;
+    height: 1000px;
+    border-radius: 10px;
+}
+
+
+/* section 1  */
+
+.content_button {
+    padding: 20px 0px 15px;
+    margin-left: 50px;
+}
+
+.button {
+    padding: 5px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#button1 {
+    background-color: rgb(0, 136, 248);
+    color: white;
+    border: 1px solid rgb(0, 136, 248); 
+}
+
+#button2 {
+    background-color: white;
+    color: rgb(185, 185, 185);
+    border: 1.5px solid rgb(185, 185, 185);
+}
+
+hr {
+    border: 1px solid rgb(241, 241, 241);
+}
+
