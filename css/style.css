@@ -86,13 +86,21 @@ ul {
 }
 
 .listV, .listX {
-    padding: 10px 0px;
+    padding: 10px 0px 10px 5px;
     font-size: 20px;
+    
 }
 
-.lisX::before {
-    content: ;
+.listX::before {
+    content: '\2717';
+    color: red;
 }
+
+.listV::before {
+    content: '\2714';
+    color: green;
+}
+
 .button_list {
     vertical-align: middle;
     padding: 8px 15px;
